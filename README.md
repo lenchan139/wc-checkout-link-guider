@@ -1,0 +1,1 @@
+GitHub format readme with badges, feature descriptions, screenshots placeholders, installation methods (WordPress admin/manual/GitHub clone), usage guide, link format examples, use cases, development documentation including file structure and hooks, contribution guidelines, license information, and author details.

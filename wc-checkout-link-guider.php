@@ -1,0 +1,1 @@
+The main WordPress plugin file with all the PHP functions for adding the checkout link guider button, enqueueing assets, and handling AJAX requests for product checkout links. Includes WooCommerce dependency check and supports simple and variable products.

@@ -1,0 +1,1 @@
+JavaScript file containing jQuery code for the modal dialog functionality including opening/closing the modal, handling quantity input, making AJAX calls to fetch product links, and displaying results with XSS protection.

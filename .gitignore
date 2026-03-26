@@ -1,0 +1,1 @@
+Git ignore file for WordPress plugin development excluding WordPress core files, IDE files, node modules, composer vendor, logs, temporary files, and build directories.

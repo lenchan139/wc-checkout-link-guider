@@ -1,0 +1,1 @@
+WordPress.org format readme file with plugin description, features list, installation instructions, FAQ section, changelog for v1.0.0, and credits.

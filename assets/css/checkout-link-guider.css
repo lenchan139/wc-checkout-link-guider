@@ -1,1 +1,33 @@
-CSS stylesheet for the modal dialog with animations, responsive design, styled form inputs, product link sections, and loading/error states. Includes dark overlay, centered modal, and mobile-friendly layout.
+.checkout-link-guider {
+  /* Basic styling */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+}
+
+.checkout-link-guider:hover {
+  transform: scale(1.05);
+}
+
+@media (max-width: 768px) {
+  .checkout-link-guider {
+    flex-direction: column;
+    padding: 10px;
+  }
+}
+
+.product-link {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+  transition: color 0.2s;
+}
+
+.product-link:hover {
+  color: #0056b3;
+}
